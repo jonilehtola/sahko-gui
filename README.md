@@ -1,0 +1,2 @@
+# sahko-gui
+SähköOptimiGui
